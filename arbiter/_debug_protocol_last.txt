@@ -1,0 +1,15 @@
+17:41:58:533 preferences saved
+17:41:56:932 ---
+17:41:56:932 who of them got the skills to test me?
+17:41:56:930 ---
+17:41:56:929 warp field stabilized. opening gate to the minesweeper world
+17:41:56:928 encrypt_engine test ok
+17:41:56:928 encrypt_engine testing ...
+17:41:56:927 ---
+17:41:56:927 language  | 00000804
+17:41:56:925 timezone  | 中国标准时间 (GMT +8:00)
+17:41:56:924 platform  | Windows NT 6.2 build 9200, 
+17:41:56:924 memory    | 2047,0 of 2047,0 MB RAM free
+17:41:56:924 cpu speed | run the command get_cpu_speed
+17:41:56:923 date      | Wed, 24.05.2023, process 0x00870728 launched
+17:41:56:919 path      | D:\CODE\MINE\ARBITER\

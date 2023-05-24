@@ -1,0 +1,17 @@
+20:23:09:777 hack found. abnormal program termination
+20:23:09:774 weird time
+20:18:38:776 beginner mode selected
+20:18:36:386 ---
+20:18:36:385 who of them got the skills to test me?
+20:18:36:384 ---
+20:18:36:384 warp field stabilized. opening gate to the minesweeper world
+20:18:36:384 encrypt_engine test ok
+20:18:36:383 encrypt_engine testing ...
+20:18:36:382 ---
+20:18:36:381 language  | 00000804
+20:18:36:378 timezone  | 中国标准时间 (GMT +8:00)
+20:18:36:377 platform  | Windows NT 6.2 build 9200, 
+20:18:36:376 memory    | 2047,0 of 2047,0 MB RAM free
+20:18:36:375 cpu speed | run the command get_cpu_speed
+20:18:36:374 date      | Tue, 07.02.2023, process 0x0010152C launched
+20:18:36:369 path      | D:\CODE\MINE\ARBITER\
